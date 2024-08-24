@@ -1,0 +1,182 @@
+cd = change directory
+cd <next directory>
+cd .. "back to previous directory '
+
+Git is a distributed version control system used to track changes in source code during software development. Here are some common Git commands and their uses:
+
+### Basic Git Commands
+
+1. **`git init`**  
+   Initializes a new Git repository in the current directory.  
+   **Usage:**  
+   ```bash
+   git init
+   ```
+
+2. **`git clone <repository-url>`**  
+   Creates a copy of an existing repository by downloading it from a remote source.  
+   **Usage:**  
+   ```bash
+   git clone https://github.com/user/repo.git
+   ```
+
+3. **`git add <file>`**  
+   Stages changes to be committed. Use `git add .` or `git add -A` to stage all changes.  
+   **Usage:**  
+   ```bash
+   git add file.txt
+   ```
+
+4. **`git commit -m "message"`**  
+   Records a snapshot of the staged changes with a message describing what was changed.  
+   **Usage:**  
+   ```bash
+   git commit -m "Add new feature"
+   ```
+
+5. **`git status`**  
+   Shows the status of changes as untracked, modified, or staged.  
+   **Usage:**  
+   ```bash
+   git status
+   ```
+
+6. **`git log`**  
+   Displays a history of commits.  
+   **Usage:**  
+   ```bash
+   git log
+   ```
+
+7. **`git diff`**  
+   Shows changes between commits, commit and working directory, etc.  
+   **Usage:**  
+   ```bash
+   git diff
+   ```
+
+8. **`git push <remote> <branch>`**  
+   Uploads local repository content to a remote repository.  
+   **Usage:**  
+   ```bash
+   git push origin main
+   ```
+
+9. **`git pull`**  
+   Fetches from and integrates with another repository or a local branch.  
+   **Usage:**  
+   ```bash
+   git pull origin main
+   ```
+
+10. **`git branch`**  
+    Lists all local branches in the current repository. If a branch name is specified, it creates a new branch.  
+    **Usage:**  
+    ```bash
+    git branch  # Lists branches
+    git branch new-branch  # Creates a new branch
+    ```
+
+11. **`git checkout <branch>`**  
+    Switches to a different branch. Use `-b` to create and switch to a new branch.  
+    **Usage:**  
+    ```bash
+    git checkout main
+    git checkout -b new-branch
+    ```
+
+12. **`git merge <branch>`**  
+    Combines changes from the specified branch into the current branch.  
+    **Usage:**  
+    ```bash
+    git merge feature-branch
+    ```
+
+13. **`git remote -v`**  
+    Shows the URLs of the remote repositories.  
+    **Usage:**  
+    ```bash
+    git remote -v
+    ```
+
+14. **`git rm <file>`**  
+    Removes a file from the working directory and stages the removal for the next commit.  
+    **Usage:**  
+    ```bash
+    git rm file.txt
+    ```
+
+15. **`git mv <old_filename> <new_filename>`**  
+    Moves or renames a file, directory, or symlink.  
+    **Usage:**  
+    ```bash
+    git mv oldname.txt newname.txt
+    ```
+
+### Advanced Git Commands
+
+1. **`git fetch`**  
+   Downloads objects and refs from another repository without merging them.  
+   **Usage:**  
+   ```bash
+   git fetch origin
+   ```
+
+2. **`git stash`**  
+   Temporarily saves changes you have made to your working directory so you can work on something else without committing those changes.  
+   **Usage:**  
+   ```bash
+   git stash
+   git stash pop  # Apply stashed changes and remove them from stash
+   ```
+
+3. **`git reset <commit>`**  
+   Resets current HEAD to the specified state. Use `--soft`, `--mixed`, or `--hard` to specify how much data to keep.  
+   **Usage:**  
+   ```bash
+   git reset --hard HEAD~1  # Resets to the previous commit
+   ```
+
+4. **`git rebase <branch>`**  
+   Reapplies commits on top of another base tip. Useful for maintaining a linear project history.  
+   **Usage:**  
+   ```bash
+   git rebase main
+   ```
+
+5. **`git cherry-pick <commit>`**  
+   Applies the changes from a specific commit on top of your current branch.  
+   **Usage:**  
+   ```bash
+   git cherry-pick abc1234
+   ```
+
+6. **`git tag <tagname>`**  
+   Creates a tag for a specific commit. Useful for marking release points.  
+   **Usage:**  
+   ```bash
+   git tag v1.0.0
+   ```
+
+7. **`git blame <file>`**  
+   Shows what revision and author last modified each line of a file.  
+   **Usage:**  
+   ```bash
+   git blame file.txt
+   ```
+
+8. **`git revert <commit>`**  
+   Creates a new commit that undoes the changes made by the specified commit.  
+   **Usage:**  
+   ```bash
+   git revert abc1234
+   ```
+
+9. **`git clean -f`**  
+   Removes untracked files from the working directory.  
+   **Usage:**  
+   ```bash
+   git clean -f
+   ```
+
+These commands form the foundation for using Git effectively. Familiarity with them can greatly improve your workflow and project management in Git-based version control.
