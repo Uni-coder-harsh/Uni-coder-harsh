@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Uni-coder-harsh<br>👀 I’m interested in Data Science And AIML<br>🌱 I’m currently learning Data Science and Data Algorithms at AccioJob<br>😄 Pronouns: He/His<br>⚡ Fun fact: I also enjoy tinkering with new tech gadgets and brainstorming creative project ideas.
+👋 Hi, I’m @Uni-coder-harsh<br>👀 I’m interested in Data Science And AIML<br>🌱 I’m currently doing B.Tech Mathematics and computing from Central University of karanataka and learning Data Science and Data Algorithms at AccioJob<br>😄 Pronouns: He/His<br>⚡ Fun fact: I also enjoy tinkering with new tech gadgets and brainstorming creative project ideas.
 
 
 ## 🌐 Socials:
