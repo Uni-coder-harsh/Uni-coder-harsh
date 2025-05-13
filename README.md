@@ -1,82 +1,67 @@
 
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">An aspiring AI & Data Science enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uni-coder-harsh&label=Profile%20views&color=0e75b6&style=flat" alt="uni-coder-harsh" />
-</p>
+<h1 align="center">Hi there, I'm Harsh 👋</h1>
+<h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast | Founder of CodeNova 🚀</h3>
 
 ---
 
-## 🚀 Programming Languages
+### 🧠 Programming Languages
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python.png"/> Python
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> C
-  <img src="https://www.r-project.org/logo/Rlogo.png" height="40"/> R
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40"/> MATLAB
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
-## 📊 Data Science & ML Libraries
+### 📊 Data Science & ML Libraries
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40"/> NumPy
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="40"/> Pandas
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="40"/> TensorFlow
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="40"/> PyTorch
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/> Scikit-learn
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-## 🧰 Developer Tools
+### 🛠 Developer Tools
 <p align="left">
-  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/> VS Code
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40"/> Git
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🎨 Design, CAD & Visualization
+### 🎨 Design, CAD & Visualization
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Freecad-logo.svg" height="40"/> FreeCAD
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Blender_logo_no_text.svg" height="40"/> Blender
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Unity_2021.svg" height="40"/> Unity
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Unreal_Engine_Logo.svg" height="40"/> Unreal Engine
+  <img src="https://img.shields.io/badge/FreeCAD-123456?style=for-the-badge&logo=freecad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
 </p>
 
-## 📈 Business Intelligence & Analytics
+### 📈 Business Intelligence & Analytics
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/> Advanced Excel
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/> Power BI
+  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
 
-## 🖥️ Backend & Hosting
+### ☁️ Backend & Hosting
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Firebase_Logo.svg" height="40"/> Supabase
-  <img src="https://www.netlify.com/img/press/logos/logomark.png" height="40"/> Netlify
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats & Activity
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=uni-coder-harsh&theme=dark&hide_border=true" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uni-coder-harsh&layout=compact&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uni-coder-harsh&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Uni-coder-harsh&theme=dark&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Uni-coder-harsh&show_icons=true&theme=dark&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uni-coder-harsh&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌟 Codenova - Igniting Student Innovation
-
-🚀 I started **Codenova**, a coding club that brings passionate students together to explore AI, Data Science, and Software Development.
-
-- 💡 Weekly knowledge-sharing sessions
-- 🏆 Hackathon winner team (IITB)
-- 📊 Internal projects: health, education, e-commerce
-- 🌱 Growing community of 40+ members
-
----
-
+## 👨‍💻 About Me
+- 🔭 I’m currently working on **VitaliAegis** and **Kisan Suvidha**
+- 🌱 Learning Gen AI & full-stack dev.
+- 🧠 Founder of **CodeNova** – building a strong coding community on campus 🚀
+- ⚡ Fun fact: I use dark mode even in sunlight ☀️🕶️
