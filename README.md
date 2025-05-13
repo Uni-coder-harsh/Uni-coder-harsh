@@ -1,15 +1,16 @@
 
 <h1 align="center">Hi there, I'm Harsh 👋</h1>
 <h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast | Founder of CodeNova 🚀</h3>
----
 
-## 👨‍💻 About Me
+
+## 👨‍💻 About Me 
+---
 - 🔭 I’m currently working on **VitaliAegis** and **Kisan Suvidha**
 - 🌱 Learning Gen AI & full-stack dev.
 - 🧠 Part of **CodeNova** – building a strong coding community on campus 🚀
 - ⚡ Fun fact: I use dark mode even in sunlight ☀️🕶️
+  
 ---
-
 ### 🧠 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
