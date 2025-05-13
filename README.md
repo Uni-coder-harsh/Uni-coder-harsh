@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Harsh 👋</h1>
-<h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast | Founder of CodeNova 🚀</h3>
+<h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast | Social Innovatist  🚀</h3>
 
 
 ## 👨‍💻 About Me 
