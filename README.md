@@ -1,89 +1,97 @@
-<h1 align="center">Hey there 👋, I'm Harsh</h1>
-<h3 align="center">AI & Data Science Enthusiast | Tech Explorer | Problem Solver</h3>
+<h1 align="center">👋 Hello, I'm Harsh</h1>
+<h3 align="center">AI Explorer | Data Enthusiast | Tech Builder | B.Tech @ CUK</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uni-coder-harsh&label=Profile%20Views&color=0e75b6&style=flat" alt="uni-coder-harsh" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uni-coder-harsh&theme=onedark&row=1&column=6" alt="trophies" /></a>
+  <img src="https://komarev.com/ghpvc/?username=uni-coder-harsh&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🌱 About Me
+## 🔍 About Me
 
-- 🔭 Currently working on: [Kisan Suvidha](https://github.com/Kisaan-Suvidha/Kisaan_Suvidha) – An AI-powered rural e-commerce platform  
-- 👨‍💻 My portfolio of projects: [GitHub Projects](https://github.com/Uni-coder-harsh)  
-- 👯 Open to collaborate on: [VitaliAegis](https://github.com/Uni-coder-harsh/VitaliaAegis) – Personalized health recommendation platform  
-- 📫 Reach me at: **harsh06264@gmail.com**  
-- 🌐 Personal blog: [dev.to/unicoderharsh](https://dev.to/unicoderharsh)  
-- 🧠 Currently exploring: **OPEA, ML Models, Bash Scripting**
-
----
-
-## 🧰 Tech Toolbox
-
-### 📊 Data & AI:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
-</p>
-
-### 💻 Programming & Scripting:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-</p>
-
-### 🌐 Web Dev & Frameworks:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40"/>
-</p>
-
-### 🔧 Tools & Platforms:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-</p>
+- 🧑‍💻 Currently building: [**Kisan Suvidha**](https://github.com/Kisaan-Suvidha/Kisaan_Suvidha) – AI-powered e-commerce for rural India  
+- 🩺 Working on: [**VitaliAegis**](https://vitaliaegis.netlify.app) – AI health recommender  
+- 🎯 Career Goal: Become an expert in AI for Social Good  
+- 🏆 Winner: AI Hackathon 🧠 | Workshop attendee @IIT Bombay & IISc Bangalore  
+- 📬 Email: **harsh06264@gmail.com** | 📞 +91 8923544241  
+- 🔗 [My LinkedIn](https://linkedin.com/in/harsh-rajput-530b31313) | [My Dev.to](https://dev.to/unicoderharsh)
 
 ---
 
-## 🔗 Connect With Me
+## 🧰 Tech Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/harsh-rajput-530b31313" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40"/>
-  </a>
-  <a href="https://dev.to/unicoderharsh" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="Dev.to" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/Uni-coder-harsh/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/harsh06264" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/hackerrank/hackerrank-icon.svg" alt="Hackerrank" width="40"/>
-  </a>
-</p>
+### 📊 Data & AI
+| Icon | Tech |
+|------|------|
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | Python |
+| ![Numpy](https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg) | Numpy |
+| ![Pandas](https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg) | Pandas |
+| ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) | TensorFlow |
+| ![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) | PyTorch |
+| ![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) | Scikit-learn |
+| ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg) | Seaborn |
+
+### 💻 Programming Languages
+| Icon | Tech |
+|------|------|
+| ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | C++ |
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | JavaScript |
+| ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) | TypeScript |
+| ![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg) | Bash |
+
+### 🌐 Web Dev & Frameworks
+| Icon | Tech |
+|------|------|
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg) | HTML5 |
+| ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg) | CSS3 |
+| ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg) | Bootstrap |
+| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg) | React |
+| ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) | Next.js |
+| ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg) | Express.js |
+
+### 🔧 Tools & Databases
+| Icon | Tool |
+|------|------|
+| ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) | Git |
+| ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) | Firebase |
+| ![GCP](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg) | Google Cloud |
+| ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg) | MySQL |
+| ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg) | MongoDB |
 
 ---
 
-## 📈 GitHub Stats
+## 🏗️ Projects Worth Exploring
+
+| Project | Description |
+|--------|-------------|
+| [**Kisan Suvidha**](https://github.com/Kisaan-Suvidha/Kisaan_Suvidha) | AI-powered e-commerce for rural farmers and artisans with offline support. |
+| [**VitaliAegis**](https://github.com/Uni-coder-harsh/VitaliaAegis) | Personalized health recommendation website using ML models. |
+| [**Walmart Retail Dashboard**](https://github.com/Uni-coder-harsh/Walmart-Analysis) | Sales insights using Python, Excel, and Pandas. |
+| [**Smart Assistant CLI**](https://github.com/Uni-coder-harsh/Smart-Assistant) | Voice-controlled assistant for system automation. |
+| [**CertiMail Automation**](https://github.com/Uni-coder-harsh/Certificate-and-Mail-Automation) | Script to automate certificate generation & email delivery. |
+
+---
+
+## 📜 Certifications
+
+- 🧠 **AI & ML** – IIT Bombay (GUVI)
+- 📊 **Data Science** – IIT Guwahati via AccioJob
+- 🐍 **Python** – Sololearn
+- 💾 **MySQL** – HackerRank
+- 🧮 **AI & Data Workshop** – IISc Bangalore
+
+---
+
+## 🚀 Learning Goals (2025)
+
+- Build an LLM-powered chatbot from scratch 🤖  
+- Master Prompt Engineering & RAG with OpenAI/GPT-4 APIs  
+- Deploy real-time ML models using FastAPI and Firebase  
+- Learn DevOps basics: Docker, CI/CD (GitHub Actions)
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uni-coder-harsh&show_icons=true&theme=radical" alt="Harsh GitHub Stats"/>
@@ -92,6 +100,17 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uni-coder-harsh&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/harsh-rajput-530b31313"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/></a>
+  <a href="https://dev.to/unicoderharsh"><img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" width="40"/></a>
+  <a href="https://leetcode.com/u/Uni-coder-harsh/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/></a>
+  <a href="https://www.hackerrank.com/profile/harsh06264"><img src="https://www.vectorlogo.zone/logos/hackerrank/hackerrank-icon.svg" width="40"/></a>
 </p>
 
 ---
