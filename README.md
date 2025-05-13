@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Harsh</h1>
-<h3 align="center">AI Explorer | Data Enthusiast | Tech Builder | B.Tech @ CUK</h3>
+<h3 align="center">AI Explorer | Data Enthusiast | Tech Builder | Exploring WebDev | B.Tech @ CUK</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uni-coder-harsh&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
@@ -21,15 +21,17 @@
 ## 🧰 Tech Stack
 
 ### 📊 Data & AI
-| Icon | Tech |
-|------|------|
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | Python |
-| ![Numpy](https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg) | Numpy |
-| ![Pandas](https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg) | Pandas |
-| ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) | TensorFlow |
-| ![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) | PyTorch |
-| ![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) | Scikit-learn |
-| ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg) | Seaborn |
+## 🧠 Tech Stack
+
+| Language | Tools & Libraries |
+|----------|-------------------|
+| ![Python](https://img.icons8.com/color/96/000000/python--v1.png) | Python |
+| ![NumPy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg) | NumPy |
+| ![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg) | Pandas |
+| ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg) | TensorFlow |
+| ![PyTorch](https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg) | PyTorch |
+| ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) | Scikit-learn |
+
 
 ### 💻 Programming Languages
 | Icon | Tech |
