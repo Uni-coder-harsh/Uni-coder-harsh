@@ -2,6 +2,7 @@
 <h1 align="center">Hi there, I'm Harsh 👋</h1>
 <h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast | Founder of CodeNova 🚀</h3>
 ---
+
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **VitaliAegis** and **Kisan Suvidha**
 - 🌱 Learning Gen AI & full-stack dev.
