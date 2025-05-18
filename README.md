@@ -9,6 +9,7 @@
 - 🌱 Learning Gen AI & full-stack dev.
 - 🧠 Part of **CodeNova** – building a strong coding community on campus 🚀
 - ⚡ Fun fact: I use dark mode even in sunlight ☀️🕶️
+- 👾 collaboration: open 
   
 ---
 ### 🧠 Programming Languages
